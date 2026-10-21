@@ -5,10 +5,10 @@ Windows 桌面端会议记录工具：实时字幕 + 会后 PDF / HTML 报告。
 
 ## 下载
 
-请到 [Releases](../../releases) 下载最新版本：
+请到 [Releases](../../releases) 下载**最新版本**，每个 Release 包含两个文件：
 
-- `HYJL-Meeting-Recorder-v1.0.0-win64.zip` —— 主程序（解压即用，解压后文件夹名为中文）
-- `HYJL-Meeting-Recorder-v1.0.0-win64.zip.sha256` —— 校验值
+- `HYJL-Meeting-Recorder-v<版本>-win64.zip` —— 主程序（解压即用，解压后文件夹名为中文）
+- 同名 `.sha256` —— 校验值
 
 ## 快速开始
 
